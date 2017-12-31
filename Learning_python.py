@@ -17,20 +17,6 @@ while line:
 	line = input('This line is: ')
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 """
 
 

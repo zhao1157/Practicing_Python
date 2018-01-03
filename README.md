@@ -17,3 +17,9 @@ This script is to finally generate fine mesh for each transition, which is used 
 executing this python script in my repository Gawk/Create_Fine_Mesh/{\*}.
 
 *** 
+
+## ========== 3. Generate_PIX/{\*}
+This script is the core part of generating photoionization cross section data. The rest of codes can be found in the folder of the same
+name in repositories Bash and Gawk.
+
+***

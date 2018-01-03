@@ -23,3 +23,8 @@ This script is the core part of generating photoionization cross section data. T
 name in repositories Bash and Gawk.
 
 ***
+
+## ========== 4. Extract_Energy_Mesh/{\*}
+This script is to extract the energy mesh in RM calculation, for later use in FAC.
+
+***

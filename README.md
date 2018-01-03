@@ -1,5 +1,5 @@
 # Python
-## ========== 1. Learning_Python/Learning_python.py ==========
+## ========== 1. Learning_Python/Learning_python.py
 ### My learning philosophy: 
 1. Practice the syntax of the new language and test my understanding of it by putting it into various situations; 
 2. Integrate what I have leant with the new piece I'm learning to improve my understanding and view of the new language; 
@@ -12,12 +12,8 @@
 
 *** 
 
-## ========== 2. ==========
-
+## ========== 2. Create_Fine_Mesh/creat_fine_mesh_5.py
+This script is to finally generate fine mesh for each transition, which is used in FAC calculation. See the awk-scripts needed before
+executing this python script in my repository Gawk/Create_Fine_Mesh/{\*}.
 
 *** 
-
-## ========== 3. ==========
-
-
-***
